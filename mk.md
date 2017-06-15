@@ -17,3 +17,6 @@
 ----|----|----
 苹果|香蕉|西红柿
 
+i want add a picture
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
