@@ -52,7 +52,12 @@ i want add a picture
  fggggggggggggggggggggggggggggggggggggggggggggggggggggg    
  gggggggggggggggg
  
- gklt
+ gklt    
+ 、、、c
+ #main(){
+ printf("输出1");
+ }
+ 、、、
  
  
  
