@@ -40,7 +40,6 @@ i want add a picture
 5. Open a pull request
     1. Describe my changes
       2. Mention all the members of my team
-      3. Ask for feedbjack5. Open a pull request
-* Describe my changes
-  * Mention all the members of my team
+      3. Ask for feedbjack5. Open a pull requestDescribe my changes
+ * Mention all the members of my team
   * Ask for feedbjack
