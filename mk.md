@@ -33,3 +33,7 @@ i want add a picture
     * Describe my changes
     * Mention all the members of my team
     * Ask for feedback
+4. Open a pull request
+    1. Describe my changes
+    2. Mention all the members of my team
+    3. Ask for feedback
