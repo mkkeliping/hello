@@ -23,7 +23,7 @@ i want add a picture
 1. how are you
   1. dd
     * dmmmjhjkj
-    * gfdtdgg
+      * gfdtdgg
 1. Make my changes
   1. Fix bug
   2. Improve formatting
