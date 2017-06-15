@@ -5,7 +5,7 @@
 
 **I love free**
 
-1: come on !baby
+1. come on !baby
 * abcdefg
 * hijklmn
 - opq
