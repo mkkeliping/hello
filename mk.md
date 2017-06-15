@@ -1,8 +1,8 @@
 # INTRODUCTION
 ## MYSELF
 > I am a girl 
->> If I have a lot of money ,I want go to US !    b\
-
+>> If I have a lot of money ,I want go to US !     
+8y89u0jojouoy9khkgjigj2
 >> 8y89u0jojouoy9khkgjigj2
 
 **I love free**
