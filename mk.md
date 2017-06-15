@@ -31,5 +31,5 @@ i want add a picture
 2. Push my commits to GitHub
 3. Open a pull request
   * Describe my changes
-  * Mention all the members of my team
-  * Ask for feedback
+   * Mention all the members of my team
+   * Ask for feedback
