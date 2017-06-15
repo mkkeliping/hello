@@ -21,5 +21,5 @@ i want add a picture
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 1. how are you
-  1.dd
+  1. dd
   * am fine ,and you
