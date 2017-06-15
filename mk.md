@@ -10,7 +10,7 @@
 * hijklmn
 - opq
 - rst 
-
+you
 [mk](www.baidu.com)
 
 今天|天气|不错
@@ -22,7 +22,7 @@ i want add a picture
 
 1. how are you
   1. dd
- 
-  * am fine,and you
-  * m fine,and you
+  
+    * am fine,and you
+    * m fine,and you
   
