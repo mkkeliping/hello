@@ -53,11 +53,11 @@ i want add a picture
  gggggggggggggggg
  
  gklt    
- 、、、c
+```c
  #main(){
  printf("输出1");
  }
- 、、、
+```
  
  
  
