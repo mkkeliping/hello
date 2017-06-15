@@ -42,5 +42,5 @@ i want add a picture
       2. Mention all the members of my team
       3. Ask for feedbjack5. Open a pull request
 * Describe my changes
- * Mention all the members of my team
- * Ask for feedbjack
+  * Mention all the members of my team
+  * Ask for feedbjack
